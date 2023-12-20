@@ -1,0 +1,14 @@
+D:\backend\dotNet\projects\tasks\task_day04\task_day04_01\task_day04_01\task_day_04_03\bin\Debug\net7.0\task_day_04_03.exe
+D:\backend\dotNet\projects\tasks\task_day04\task_day04_01\task_day04_01\task_day_04_03\bin\Debug\net7.0\task_day_04_03.deps.json
+D:\backend\dotNet\projects\tasks\task_day04\task_day04_01\task_day04_01\task_day_04_03\bin\Debug\net7.0\task_day_04_03.runtimeconfig.json
+D:\backend\dotNet\projects\tasks\task_day04\task_day04_01\task_day04_01\task_day_04_03\bin\Debug\net7.0\task_day_04_03.dll
+D:\backend\dotNet\projects\tasks\task_day04\task_day04_01\task_day04_01\task_day_04_03\bin\Debug\net7.0\task_day_04_03.pdb
+D:\backend\dotNet\projects\tasks\task_day04\task_day04_01\task_day04_01\task_day_04_03\obj\Debug\net7.0\task_day_04_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend\dotNet\projects\tasks\task_day04\task_day04_01\task_day04_01\task_day_04_03\obj\Debug\net7.0\task_day_04_03.AssemblyInfoInputs.cache
+D:\backend\dotNet\projects\tasks\task_day04\task_day04_01\task_day04_01\task_day_04_03\obj\Debug\net7.0\task_day_04_03.AssemblyInfo.cs
+D:\backend\dotNet\projects\tasks\task_day04\task_day04_01\task_day04_01\task_day_04_03\obj\Debug\net7.0\task_day_04_03.csproj.CoreCompileInputs.cache
+D:\backend\dotNet\projects\tasks\task_day04\task_day04_01\task_day04_01\task_day_04_03\obj\Debug\net7.0\task_day_04_03.dll
+D:\backend\dotNet\projects\tasks\task_day04\task_day04_01\task_day04_01\task_day_04_03\obj\Debug\net7.0\refint\task_day_04_03.dll
+D:\backend\dotNet\projects\tasks\task_day04\task_day04_01\task_day04_01\task_day_04_03\obj\Debug\net7.0\task_day_04_03.pdb
+D:\backend\dotNet\projects\tasks\task_day04\task_day04_01\task_day04_01\task_day_04_03\obj\Debug\net7.0\task_day_04_03.genruntimeconfig.cache
+D:\backend\dotNet\projects\tasks\task_day04\task_day04_01\task_day04_01\task_day_04_03\obj\Debug\net7.0\ref\task_day_04_03.dll
